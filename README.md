@@ -1,2 +1,9 @@
-# astrbot_plugin_DanciestZebra70
-这是一个astrbot插件
+# helloworld
+
+AstrBot 插件模板
+
+A template plugin for AstrBot plugin feature
+
+# 支持
+
+[帮助文档](https://astrbot.app)
