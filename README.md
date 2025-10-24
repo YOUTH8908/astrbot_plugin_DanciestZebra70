@@ -1,0 +1,2 @@
+# astrbot_plugin_DanciestZebra70
+这是一个astrbot插件
